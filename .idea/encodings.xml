@@ -2,25 +2,10 @@
 <project version="4">
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/data/datasets/100leaves.mat" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/data/datasets/3sources.mat" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/data/datasets/ACM3025.mat" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/data/datasets/ALOI_100.mat" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/data/datasets/BBCSports.mat" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/data/datasets/BDGP.mat" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/data/datasets/CCV.mat" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/data/datasets/COIL20.mat" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/data/datasets/Caltech101-20.mat" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/data/datasets/Caltech101-7.mat" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/data/datasets/Caltech101-all.mat" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/data/datasets/LandUse-21.mat" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/data/datasets/Handwritten.mat" charset="GBK" />
     <file url="file://$PROJECT_DIR$/data/datasets/MNIST-10k.mat" charset="GBK" />
     <file url="file://$PROJECT_DIR$/data/datasets/MSRC-v1.mat" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/data/datasets/RGB-D.mat" charset="GBK" />
     <file url="file://$PROJECT_DIR$/data/datasets/Scene-15.mat" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/data/datasets/WebKB.mat" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/data/datasets/Wiki.mat" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/data/datasets/WikipediaArticles.mat" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/data/datasets/Yale.mat" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/utils/multi_view_tree1.py" charset="GBK" />
   </component>
 </project>
