@@ -68,7 +68,7 @@ def cluster_and_evaluate(adj, true_labels, n_clusters, n_init=10):
                                  random_state=0, n_init=n_init, assign_labels='discretize')
         pred = sc.fit_predict(adj)
     except Exception as e:
-        print(f"  谱聚类失败: {e}")
+        print(f"  failed: {e}")
         return 0.0, 0.0
 
     nmi = normalized_mutual_info_score(true_labels, pred)

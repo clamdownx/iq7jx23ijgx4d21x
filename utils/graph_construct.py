@@ -63,9 +63,6 @@ def select_k_by_entropy(features, k_candidates=None):
     return best_k, best_entropy
 
 
-# =========================================================
-# 共识引导局部图补全
-# =========================================================
 def consensus_guided_completion(adj_list, missing_mask, k_list, confidence_threshold=0.15):
     N = adj_list[0].shape[0]
     V = len(adj_list)
